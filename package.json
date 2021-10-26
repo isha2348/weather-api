@@ -1,0 +1,16 @@
+{
+  "name": "wether-api",
+  "version": "1.0.0",
+  "description": "creating a weather node js app",
+  "main": " index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "\"Isha\"",
+  "license": " AFL-1.1",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "requests": "^0.3.0"
+  },
+  "devDependencies": {}
+}
